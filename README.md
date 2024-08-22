@@ -9,6 +9,6 @@ En este curso se presentarán desafíos reales basados en problemáticas clínic
 
 ## Acerca de mí
 
-**Soy un estudiante de 18 años, apasionado por el frontón y actualmente cursando Ingeniería Biomédica. Me encuentro explorando el mundo del biodiseño a través del curso de Fundamentos de Biodiseño, donde aplico mi creatividad y conocimientos para desarrollar soluciones innovadoras en el ámbito de la salud.**
+**Mi nombre es José Gabriel, soy un estudiante de 18 años, apasionado por el frontón y actualmente estudio la carrera de Ingeniería Biomédica. Me encuentro explorando el mundo del biodiseño a través del curso de Fundamentos de Biodiseño, donde aplico mi creatividad y conocimientos para desarrollar soluciones innovadoras en el ámbito de la salud.**
 
 ![](https://github.com/JogaBardales/Proyecto1FUNBIO/blob/main/Archivo2/AMGA.jpeg)
